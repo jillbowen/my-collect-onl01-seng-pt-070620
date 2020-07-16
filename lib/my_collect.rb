@@ -4,5 +4,7 @@ def my_collect(empty_array)
   while i < empty_array.length 
     yield(empty_array[i])
     i = i + 1 
+  end
+  empty_array
 end
 

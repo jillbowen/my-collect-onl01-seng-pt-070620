@@ -1,2 +1,4 @@
 def collection(members)
+  
+end
 
